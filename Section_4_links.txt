@@ -1,0 +1,9 @@
+https://nextjs.org/docs/api-reference/create-next-app
+
+https://nextjs.org/docs/basic-features/pages
+
+https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering
+
+https://skaffold.dev/docs/install/
+
+https://api.agify.io?name=Birdy
